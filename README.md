@@ -12,6 +12,6 @@ It also provides the python interface to TAP service.
 
 
 ## References
-
+* [slides used during the session](http://prezi.com/kllm-kyexhjj/?utm_campaign=share&utm_medium=copy)
 * [School webpage](http://www.iasbs.ac.ir/seminar/physics/astro/gaia/)
 * [IASBS - Institute for advance studies in basic science](https://iasbs.ac.ir/?ef=en)
